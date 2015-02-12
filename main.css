@@ -1,0 +1,68 @@
+body {
+		font-family: 'Verdana', sans-serif;
+	}
+
+	.row {
+		width: 1060px;	
+	}
+
+	.container {
+		margin-left: 15px;
+	}
+
+	h1 {
+		color: #666;
+		font-size: 48px;
+		font-weight: lighter;
+	}
+
+	.col-md-11 {	
+		width: 1024px;
+		padding-top: 25px;
+		padding-right: 45px;
+	}
+
+	h2 {
+		color: #f07c17;
+		font-size: 24px;
+		font-weight: bolder;
+		width: 651px;
+		margin-bottom: 29px;
+	}
+
+	.mug {
+		width: 373px;
+		height: 373px;
+		margin-left: 13px;
+		margin-top: 20px;
+		float: left;	
+	}
+
+	.col-md-6 {
+		width: 580px;
+		float: right;
+		margin-top: 1px;
+		margin-right: 65px;
+	}
+
+	h4 {
+		font-size: 16px;
+		line-height: 32px;
+		letter-spacing: 0.04px;
+	}
+
+	.col-md-4 {
+		font-size: 16px;
+		line-height: 32px;
+		border-style: solid;
+		border-width: 1px;
+		border-color: #ccc;
+		width: 373px;
+		margin-top: 31px;
+		margin-left: 28px;
+		padding-left: 28px;
+		padding-top: 12px;
+		padding-bottom: 30px;
+		float: left;
+	}
+
